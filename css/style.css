@@ -178,7 +178,8 @@ h2{
 .portfolio-overlay:hover::before{
     content: "Projekt";
     color: #fff;
-    font-weight: bolder;
+    font-weight: lighter;
+    letter-spacing: 3px;
     font-size: 2rem;
     position: absolute;
     top: 50%;
