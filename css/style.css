@@ -198,3 +198,13 @@ h2{
     color: #777;
     padding: 100px 0 100px 0;
 }
+.contact form{
+    display: flex;
+}
+.contact input{
+    width: 25%;
+}
+.contact textarea{
+    resize: none;
+    width: 50%;
+}
